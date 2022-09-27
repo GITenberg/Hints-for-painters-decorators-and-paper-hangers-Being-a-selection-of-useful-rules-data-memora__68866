@@ -1,11 +1,16 @@
 _repo: Hints-for-painters-decorators-and-paper-hangers-Being-a-selection-of-useful-rules-data-memora__68866
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68866-h/images/cover.jpg
 creator:
   author:
     agent_name: Hand, An Old
     gutenberg_agent_id: '54987'
     url: http://www.gutenberg.org/2009/agents/54987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68866#Hints-for-painters-decorators-and-paper-hangers-Being-a-selection-of-useful-rules-data-memora_
 gutenberg_issued: '2022-08-30'
 identifiers:
   gutenberg: '68866'
